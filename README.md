@@ -41,7 +41,7 @@ Sirve para mostrar mensajes o resultados en pantalla.
 ```pseudocode
 Escribir "Hola mundo"
 ```
-Esto imprime en pantalla: <u>Hola mundo</u>
+Esto imprime en pantalla: **Hola mundo**
 
 ### 🟡 Leer
 Sirve para pedirle datos al usuario.
@@ -49,7 +49,22 @@ Sirve para pedirle datos al usuario.
 Escribir "¿Cuál es tu nombre?"
 Leer nombre
 ```
-Este código primero muestra el mensaje y luego espera que el usuario escriba algo que se guarda en la variable <u>nombre.</u>
+Este código primero muestra el mensaje y luego espera que el usuario escriba algo que se guarda en la variable **nombre.**
+
+## 🔀 Condicionales
+### 🧩 ¿Qué es un condicional?
+Un condicional permite que el programa tome decisiones.
+
+### 🧍‍♀️ Ejemplo de la vida real:
+> **Si llueve**, entonces **llevo paraguas** ☔
+
+### 💻 En programación:
+```pseudocodigo
+Si clima = "lluvia" Entonces
+    Escribir "Llevar paraguas"
+FinSi
+```
+
 
 
 
