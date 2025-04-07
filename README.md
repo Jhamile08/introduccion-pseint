@@ -136,7 +136,7 @@ Un arreglo es como una lista de variables del mismo tipo.
 
 ### 🧾 Declaración
 ```pseudocodigo
-Definir notas[5] Como Real
+Dimensionar notas[5] 
 ```
 Eso crea 5 espacios: notas[1], notas[2], ..., notas[5]
 
