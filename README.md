@@ -24,13 +24,39 @@ Definir edad Como Entero
 Definir nombre Como Cadena
 Definir promedio Como Real
 ```
-## Tipos de datos
+## 🔢 Tipos de datos
 
 | Tipo   | Significado                                |
 |--------|---------------------------------------------|
 | Entero | Números sin decimales (1, 2, 15...)         |
 | Real   | Números con decimales (3.5, 7.2...)         |
+| Número | Puede representar tanto Entero como Real    |              
 | Cadena | Texto (nombres, frases, etc.)               |
 | Lógico | Verdadero o Falso                           |
+
+## ✍️ Entrada y salida de datos
+### 🟢 Escribir
+
+Sirve para mostrar mensajes o resultados en pantalla.
+```pseudocode
+Escribir "Hola mundo"
+```
+Esto imprime en pantalla: <u>Hola mundo</u>
+
+### 🟡 Leer
+Sirve para pedirle datos al usuario.
+```pseudocode
+Escribir "¿Cuál es tu nombre?"
+Leer nombre
+```
+Este código primero muestra el mensaje y luego espera que el usuario escriba algo que se guarda en la variable <u>nombre.</u>
+
+
+
+
+
+
+
+
 
 
